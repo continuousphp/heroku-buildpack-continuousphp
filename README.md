@@ -1,6 +1,4 @@
-# continuousphp Heroku buildpack
-
-![php](https://cloud.githubusercontent.com/assets/51578/8882982/73ea501a-3219-11e5-8f87-311e6b8a86fc.jpg)
+# continuousphp Heroku buildpack [![Build Status](https://status.continuousphp.com/git-hub/continuousphp/heroku-buildpack-php?token=0e399694-6b22-4c97-afee-5defec6b7b8d)](https://continuousphp.com/git-hub/continuousphp/heroku-buildpack-php)
 
 ## Usage
 
