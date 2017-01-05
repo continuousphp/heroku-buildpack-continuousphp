@@ -1,4 +1,4 @@
-# continuousphp Heroku buildpack [![Build Status](https://status.continuousphp.com/git-hub/continuousphp/heroku-buildpack-php?token=0e399694-6b22-4c97-afee-5defec6b7b8d)](https://continuousphp.com/git-hub/continuousphp/heroku-buildpack-php)
+# continuousphp Heroku buildpack [![Build Status](https://status.continuousphp.com/git-hub/continuousphp/heroku-buildpack-continuousphp?token=16a770c2-42c6-4389-a561-7705fb5cbd6f)](https://continuousphp.com/git-hub/continuousphp/heroku-buildpack-continuousphp) 
 
 ## Usage
 
